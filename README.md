@@ -1,4 +1,4 @@
 # test
 
 
-read from global
+read from portal
