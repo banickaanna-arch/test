@@ -1,1 +1,4 @@
 # test
+
+
+read from global
